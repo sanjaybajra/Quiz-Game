@@ -129,4 +129,10 @@ body{
     cursor: pointer;
     display: none;
 }
+.correct{
+    background: #9aeadc;
+}
+.incorrect{
+    background:#ff9393;
+}
 }
